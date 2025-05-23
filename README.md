@@ -18,7 +18,7 @@
 
 - **Name:** Parmeet Kumar
 - **<div align="center"> Profile Photo: </div>**
-  <center><img src="https://parmeetkumar-portfolio.vercel.app/images/profile%20photo.png" style="width:30vmax;"/></center>
+  <center><img src="https://parmeetkumar-portfolio.vercel.app/images/profile%20photo.png" width:"30%"/></center>
 - **Short Bio:**  
   _[Write a catchy one-liner about yourself, your passion, or your ambitions!]_
 
