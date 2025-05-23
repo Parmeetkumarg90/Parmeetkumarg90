@@ -16,8 +16,9 @@
 
 ## 🧑‍💼 About Me
 
-- **Name:** _[Add your name here]_
-- **Profile Photo:** _[Upload your photo here]_
+- **Name:** Parmeet Kumar
+- **Profile Photo:** <img src="https://parmeetkumar-portfolio.vercel.app/images/profile%20photo.png" width="90"/>
+**
 - **Short Bio:**  
   _[Write a catchy one-liner about yourself, your passion, or your ambitions!]_
 
@@ -89,8 +90,8 @@
 
 - 🍳 Cooking creative dishes  
 - 🎬 Watching inspirational movies  
-- 🏸 Badminton, 🎮 Gaming, 🎵 Music, ✈️ Traveling  
-- _[Add your own hobbies!]_
+- 🏸 Badminton
+- 🎮 Gaming
 
 ---
 
