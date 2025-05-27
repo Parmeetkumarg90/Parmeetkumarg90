@@ -95,8 +95,6 @@
 > "The only way to do great work is to love what you do." – Steve Jobs  
 > "Success is not the key to happiness. Happiness is the key to success." – Albert Schweitzer
 
-- 🧩 _[Add your favorite fun facts, memes, or inspirational quotes here!]_
-
 ---
 
 <div align="center">
