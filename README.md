@@ -1,17 +1,11 @@
 # 👨‍🎓✨ Parmeet Kumar Github Profile
 
 ---
-
 <div align="center">
-
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90"/>
-
 **Welcome to My Portfolio!**
-
 *Crafted with ❤️, Code, and Creativity!*
-
 </div>
-
 ---
 
 ## 🧑‍💼 About Me
@@ -19,9 +13,6 @@
 - **Name:** Parmeet Kumar
 - **<div align="center"> Profile Photo: </div>**
   <center><img src="https://parmeetkumar-portfolio.vercel.app/images/profile%20photo.png" height:"100px"/></center>
-- **Short Bio:**  
-  _[Write a catchy one-liner about yourself, your passion, or your ambitions!]_
-
 ---
 
 ## 🚀 Skills & Technologies
