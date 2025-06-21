@@ -15,8 +15,6 @@
 ## 🧑‍💼 About Me
 
 - **Name:** Parmeet Kumar
-- **<div align="center"> Profile Photo: </div>**
-  <center><img src="https://parmeetkumar-portfolio.vercel.app/images/profile%20photo.png" height:"10"/></center>
 ---
 
 ## 🚀 Skills & Technologies
