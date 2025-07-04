@@ -64,7 +64,7 @@
 
 - **Description:** Made a personal Portfolio Website using Python and it's backend technologies like Django and frontend using HTML, CSS, Javascript and for database I use Mysql.
 - **Technologies:** Python, Django, Mysql, Aiven, MailJs, 
-- **Link:** (hello)[https://parmeetkumar-portfolio.vercel.app/]
+- **Link:** [Click Me](https://parmeetkumar-portfolio.vercel.app/)
 - **Check It Out**  
 ```
 ```
