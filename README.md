@@ -80,6 +80,18 @@
 
 ---
 
+## 📫 Contact Me
+
+<p align="center" style="width:100vw; display:flex; justify-content: space-evenly;">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iam.sumitkumar64@gmail.com)  
+[![Phone](https://img.shields.io/badge/Phone-9992528037-E0E0E0?style=for-the-badge&logo=phone&logoColor=black)](tel:+9992528037)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamsumitkumar64)  
+
+</p>
+
+---
+
 ## 🌟 Fun Facts & Quotes
 
 > "The only way to do great work is to love what you do." – Steve Jobs  
