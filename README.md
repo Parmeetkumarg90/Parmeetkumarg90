@@ -53,38 +53,32 @@
 - 🥈 Secured **2nd place in on-spot coding** at **Zerone IT Fest**, Arya PG College
 
 ---
-
 ## 💻 Projects
 
 > _"Showcasing what I’ve built..."_
 
-
-```
 ### 🌟 Portfolio
 
-- **Description:** Made a personal Portfolio Website using Python and it's backend technologies like Django and frontend using HTML, CSS, Javascript and for database I use Mysql.
-- **Technologies:** Python, Django, Mysql, Aiven, MailJs, 
-- **Link:** [Click Me](https://parmeetkumar-portfolio.vercel.app/)
-- **Check It Out**  
-```
-```
+- **Description:** Made a personal Portfolio Website using Python and its backend technologies like Django, and frontend using HTML, CSS, JavaScript. For the database, I used MySQL.
+- **Technologies:** Python, Django, MySQL, Aiven, MailJs  
+- **Link:** 👉 [Click Me](https://parmeetkumar-portfolio.vercel.app/)
+
+---
+
 ### 🌟 Online Compiler
 
-- **Description:** Compiler with many functionalities like compiling and interperating your code and also give you an option to select code compilation for different languages using Api.
-- **Technologies:** HTML, CSS, Javascript, Api
-- **Link:** https://parmeetkumar-portfolio.vercel.app/](https://parmeet-compiler.vercel.app/
-- **Check It Out**  
-```
-```
+- **Description:** A web-based compiler that lets users write and compile code in multiple languages via APIs. Features include language selection, real-time output, and clean UI.
+- **Technologies:** HTML, CSS, JavaScript, API  
+- **Link:** 👉 [Try Compiler](https://parmeet-compiler.vercel.app/)
+
+---
+
 ### 🌟 E-Commerce
 
-- **Description:** Developed a E-Commerce website that can authenticate user and also differentiate between user and seller with many functionalities.
-- **Features:** Authentication(Login, Signin), Product Buy, Product Cart with/without login, Product Listing, Checkout, Max Buy Quantity, Product Stock, Seller can Add, remove, modify product, and also add realtime customer support
-- **Technologies:** Node, Express, Mongodb, JWT Token, Socket.io
-- **Link:** https://github.com/Parmeetkumarg90/E-Commerce.git
-- **Check It Out**  
-```
----
+- **Description:** Developed a full-fledged e-commerce platform with user and seller roles, cart management, authentication, and real-time support using sockets.
+- **Features:** Login/Signup, Cart (guest + user), Product management, Stock handling, Chat support, Role-based access  
+- **Technologies:** Node.js, Express.js, MongoDB, JWT, Socket.io  
+- **Link:** 👉 [GitHub Repo](https://github.com/Parmeetkumarg90/E-Commerce.git)
 
 ## 🎨 Hobbies & Interests
 
