@@ -60,27 +60,23 @@
 ### 🌟 Portfolio
 - **Description:** Made a personal Portfolio Website using Python and it's backend technologies like Django and frontend using HTML, CSS, Javascript and for database I use Mysql.
 - **Technologies:** Python, Django, Mysql, Aiven, MailJs,
-- **Link:** [Click Me](https://parmeetkumar-portfolio.vercel.app/)
-- **Check It Out**
 ```
+👉 [Click Me](https://parmeetkumar-portfolio.vercel.app/)
 
 ```
 ### 🌟 Online Compiler
 - **Description:** Compiler with many functionalities like compiling and interperating your code and also give you an option to select code compilation for different languages using Api.
 - **Technologies:** HTML, CSS, Javascript, Api
-- **Link:** https://parmeetkumar-portfolio.vercel.app/](https://parmeet-compiler.vercel.app/
-- **Check It Out** 
-``` 
+```
+👉 [Click Me](https://parmeet-compiler.vercel.app/)
 
 ``` 
 ### 🌟 E-Commerce
 - **Description:** Developed a E-Commerce website that can authenticate user and also differentiate between user and seller with many functionalities.
 - **Features:** Authentication(Login, Signin), Product Buy, Product Cart with/without login, Product Listing, Checkout, Max Buy Quantity, Product Stock, Seller can Add, remove, modify product, and also add realtime customer support
 - **Technologies:** Node, Express, Mongodb, JWT Token, Socket.io
-- **Link:** https://github.com/Parmeetkumarg90/E-Commerce.git
-- **Check It Out**
 ```
-
+👉 [Click Me](https://github.com/Parmeetkumarg90/E-Commerce.git)
 ---
 
 ## 🌟 Fun Facts & Quotes
