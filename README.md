@@ -54,7 +54,66 @@
 
 ---
 
-<pre> ### 🌟 Portfolio - **Description:** Made a personal Portfolio Website using Python and its backend technologies like Django and frontend using HTML, CSS, JavaScript. For the database, I used MySQL. - **Technologies:** Python, Django, MySQL, Aiven, MailJs - **Link:** 👉 <a href="https://parmeetkumar-portfolio.vercel.app/">Click Me</a> - **Check It Out** </pre> <pre> ### 🌟 Online Compiler - **Description:** Compiler with many functionalities like compiling and interpreting your code, and also gives you an option to select code compilation for different languages using an API. - **Technologies:** HTML, CSS, JavaScript, API - **Link:** 👉 <a href="https://parmeet-compiler.vercel.app/">Try Compiler</a> - **Check It Out** </pre> <pre> ### 🌟 E-Commerce - **Description:** Developed an E-Commerce website that can authenticate users and also differentiate between user and seller with many functionalities. - **Features:** Authentication (Login, Signin), Product Buy, Cart with/without login, Listing, Checkout, Max Quantity, Stock Control, Seller Product Management, Real-time Chat - **Technologies:** Node.js, Express.js, MongoDB, JWT, Socket.io - **Link:** 👉 <a href="https://github.com/Parmeetkumarg90/E-Commerce.git">GitHub Repo</a> - **Check It Out** </pre>
+## 💻 Projects 
+"Showcasing what I’ve built..."_
+```
+### 🌟 Portfolio
+- **Description:** Made a personal Portfolio Website using Python and it's backend technologies like Django and frontend using HTML, CSS, Javascript and for database I use Mysql.
+- **Technologies:** Python, Django, Mysql, Aiven, MailJs,
+- **Link:** [Click Me](https://parmeetkumar-portfolio.vercel.app/) - **Check It Out**
+```
+
+```
+### 🌟 Online Compiler
+- **Description:** Compiler with many functionalities like compiling and interperating your code and also give you an option to select code compilation for different languages using Api.
+- **Technologies:** HTML, CSS, Javascript, Api
+- **Link:** https://parmeetkumar-portfolio.vercel.app/](https://parmeet-compiler.vercel.app/ - **Check It Out** 
+``` 
+
+``` 
+### 🌟 E-Commerce
+- **Description:** Developed a E-Commerce website that can authenticate user and also differentiate between user and seller with many functionalities.
+- **Features:** Authentication(Login, Signin), Product Buy, Product Cart with/without login, Product Listing, Checkout, Max Buy Quantity, Product Stock, Seller can Add, remove, modify product, and also add realtime customer support
+- **Technologies:** Node, Express, Mongodb, JWT Token, Socket.io
+- **Link:** https://github.com/Parmeetkumarg90/E-Commerce.git - **Check It Out**
+```
+## 💻 Projects
+
+> _"Showcasing what I’ve built..."_
+
+```
+### 🌟 Portfolio
+
+- **Description:** Made a personal Portfolio Website using Python and its backend technologies like Django and frontend using HTML, CSS, JavaScript. For the database, I used MySQL.
+- **Technologies:** Python, Django, MySQL, Aiven, MailJs  
+- **Link (text):** https://parmeetkumar-portfolio.vercel.app/
+- **Link (HTML):** <a href="https://parmeetkumar-portfolio.vercel.app/">Click Me</a>
+- **Check It Out**
+```
+
+```
+### 🌟 Online Compiler
+
+- **Description:** Compiler with many functionalities like compiling and interpreting your code, and also gives you an option to select code compilation for different languages using an API.
+- **Technologies:** HTML, CSS, JavaScript, API  
+- **Link (text):** https://parmeet-compiler.vercel.app/
+- **Link (HTML):** <a href="https://parmeet-compiler.vercel.app/">Try Compiler</a>
+- **Check It Out**
+```
+
+```
+### 🌟 E-Commerce
+
+- **Description:** Developed an E-Commerce website that can authenticate users and also differentiate between user and seller with many functionalities.
+- **Features:** Authentication (Login, Signup), Product Buy, Cart with/without login, Product Listing, Checkout, Max Quantity, Stock Handling, Seller Product Control, Real-time Support  
+- **Technologies:** Node.js, Express.js, MongoDB, JWT, Socket.io  
+- **Link (text):** https://github.com/Parmeetkumarg90/E-Commerce.git
+- **Link (HTML):** <a href="https://github.com/Parmeetkumarg90/E-Commerce.git">GitHub Repo</a>
+- **Check It Out**
+```
+
+---
+
 ## 🌟 Fun Facts & Quotes
 
 > "The only way to do great work is to love what you do." – Steve Jobs  
