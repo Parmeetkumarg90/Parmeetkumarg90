@@ -82,13 +82,26 @@
 
 ## 📫 Contact Me
 
-<p align="center" style="width:100vw; display:flex; flex-direction: row; justify-content: space-evenly;">
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:iam.sumitkumar64@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="tel:+919992528037">
+        <img src="https://img.shields.io/badge/Phone-9992528037-E0E0E0?style=for-the-badge&logo=phone&logoColor=black" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/iamsumitkumar64">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p>[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iam.sumitkumar64@gmail.com) </p> 
-<p></p>[![Phone](https://img.shields.io/badge/Phone-9992528037-E0E0E0?style=for-the-badge&logo=phone&logoColor=black)](tel:+9992528037)  </p>
-<p></p>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamsumitkumar64) </p> 
-
-</p>
 
 ---
 
