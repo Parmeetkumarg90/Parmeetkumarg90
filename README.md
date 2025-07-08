@@ -1,4 +1,4 @@
-# 👨‍🎓✨ Parmeet Kumar Github Profile
+<h1 align="center"> 👨‍🎓✨ MERN Developer | Aspiring AI/ML Developer</h1>
 
 ---
 <div align="center">
@@ -9,14 +9,6 @@
 
 *Crafted with ❤️, Code, and Creativity!*
 </div>
-
----
-
-## 🧑‍💼 About Me
-
-- **Name:** Parmeet Kumar  
-- **Role:** Software Engineer at CodeQuotient  
-- **About:** Passionate MERN Stack Developer with a strong foundation in problem-solving and Data Structures & Algorithms using C++. Constantly exploring new technologies to build impactful solutions.
 
 ---
 
