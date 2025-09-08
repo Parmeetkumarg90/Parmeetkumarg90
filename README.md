@@ -81,11 +81,6 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
     </td>
-    <td align="center">
-      <a href="tel:+919068057560">
-        <img src="https://img.shields.io/badge/Phone-9068057560-E0E0E0?style=for-the-badge&logo=phone&logoColor=black" />
-      </a>
-    </td>
     <td align="center">      
       <a href="https://www.linkedin.com/in/parmeet-kumar">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
